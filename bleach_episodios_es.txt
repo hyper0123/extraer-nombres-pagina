@@ -1,395 +1,394 @@
-001 - «El día en que me convertí en Shinigami»«Shinigami ni natchatta hi»(死神になっちゃった日)
-002 - «El trabajo de un Shinigami»«Shinigami no oshigoto»(死神になっちゃった日)
-003 - «Deseo del hermano mayor, deseo de la hermana menor»«Ani no omoi, imōto no omoi»(死神になっちゃった日)
-004 - «El periquito maldito»«Noroi no inko»(死神になっちゃった日)
-005 - «¡Derrota al enemigo invisible!»««Mienai teki o nagure!»(死神になっちゃった日)
-006 - «¡Lucha a muerte! Ichigo vs Ichigo»«Shitō! Ichigo vs Ichigo»(死闘！一護VSイチゴ)
-007 - «Saludos de un león de peluche»«Nuigurumi kara KONnichiwa»(兄の想い、妹の想い)
-008 - «17 de Junio, memorias en la lluvia»«Rokugatsu jūnananichi, ame no kioku»(6月17日、雨の記憶)
-009 - «Enemigo invencible»«Taosenai teki»(倒せない敵)
-010 - «¡Asalto durante la visita a la tierra sagrada!»«Burari reiba totsugeki no tabi!»(ぶらり霊場突撃の旅!)
-011 - «El legendario Quincy»«Densetsu no Kuinshī»(伝説のクインシー)
-012 - «Un amable brazo derecho»«Yasashii migiude»(やさしい右腕)
-013 - «La Flor y el Hollow»«Hana to horō»(花とホロウ)
-014 - «¡Lucha a muerte espalda con espalda!»«Senaka awase no shitō!»(背中合わせの死闘!)
-015 - «El magnífico plan de Kon»«Kon no UHAUHA daisakusen»(コンのウハウハ大作戦)
-016 - «Renji Abarai, ¡el encuentro!»«Abarai Renji, misan!»(阿散井恋次、見参!)
-017 - «¡Ichigo muere!»«Ichigo, shisu!»(一護、死す!)
-018 - «¡Recupéralo! El poder de Shinigami»«Torimodose! Shinigami no chikara»(取り戻せ! 死神の力)
-019 - «¡Ichigo se convierte en Hollow!»«Ichigo, horō ni ochiru!»(一護、ホロウに墜ちる!)
-020 - «La Sombra de Gin Ichimaru»«Ichimaru Gin no kage»(市丸ギンの影)
-021 - «¡Entra! El mundo de los Shinigami»"Shinigami no sekai»(突入！死神の世界)
-022 - «El hombre que odia a los Shinigami»«Shinigami o nikumu otoko»(死神を憎む男)
-023 - «14 días antes de la ejecución de Rukia»«Rukia shokei, jūyokka mae»(ルキア処刑、14日前)
-024 - «¡Reunión! El Gotei 13»«Kesshū! Gotei jūsantai»(結集！護廷13隊)
-025 - «¿Entrar en el centro con una bala enorme?»«Kyodai hōdan de chūō toppa?»(巨大砲弾で中央突破?)
-026 - «¡Formación! La peor reputación»«Kessei! Saiaku no taggu»(結成! 最悪のタッグ)
-027 - «¡Da el golpe de gracia!»«Hissatsu no ichigeki o hanate!»(必殺の一撃を放て!)
-028 - «El objetivo es Orihime»«Nerawareta Orihime»(狙われた織姫)
-029 - «¡Atraviesa! La red de Shinigami acechantes»«Toppaseyo! Shinigami hōimō»(突破せよ! 死神包囲網)
-030 - «Enfrentamiento con Renji»«Tachihadakaru Renji»(立ちは かる恋次)
-031 - «La resolución de matar»«Kiru tame no kakugo»(斬る為の覚悟)
-032 - «La Estrella y el Vagabundo»«Hoshi to norainu»(星と野良犬)
-033 - «¡Milagro! El misterioso nuevo héroe»«Kiseki! Nazo no shinhīrō»(奇跡！謎の新ヒーロー)
-034 - «Tragedia al amanecer»«Yoake no sangeki»(夜明けの惨劇)
-035 - «¡Aizen asesinado! Se cierne la Oscuridad»«Aizen ansatsu! Shinobiyoru yami»(藍染暗殺！忍び寄る闇)
-036 - «¡Kenpachi Zaraki se acerca!»«Zaraki Kenpachi semaru!»(更木剣八、迫る!)
-037 - «La razón del puño»«Ken no riyū»(拳の理由)
-038 - «¡Desesperación! Zangetsu rota»«Zettaizetsumei! Orareta Zangetsu»(絶対絶命! 折られた斬月)
-039 - «El hombre inmortal»«Fujimi no otoko»(不死身の男)
-040 - «El Shinigami que conoció Ganju»«Ganju no mita Shinigami»(岩鷲の見た死神)
-041 - «Reunión, Ichigo y Rukia»«Saikai, Ichigo to Rukia»(再会、一護とルキア)
-042 - «Yoruichi, la Diosa de la Velocidad, ¡en acción!»«Shunshin Yoruichi, mau!»(瞬神夜一、舞う!)
-043 - «El Shinigami despreciable»«Hiretsu na Shinigami»(卑劣な死神)
-044 - «Ishida, ¡el poder definitivo!»«Ishida, kyokugen no chikara!»(石田、極限の力!)
-045 - «¡Supera tus límites!»«Genkai o koero!»(限界を越えろ!)
-046 - «¡Recuerdos auténticos! La Academia de Shinigami»«Jitsuroku! Shinigami no gakkō»(実録! 死神の学校)
-047 - «Los vengadores»«Adautsu monotachi»(仇討つ者たち)
-048 - «Hitsugaya, ¡ruge!»«Hitsugaya, hoeru!»(日番谷、吼える!)
-049 - «La pesadilla de Rukia»«Rukia no akumu»(ルキアの悪夢)
-050 - «El resurgir del león»«Yomigaeru shishi»(よみがえる獅子)
-051 - «La mañana de la ejecución»«Shōkei no asa»(処刑の朝)
-054 - «¡Una promesa cumplida! ¡Trae de vuelta a Rukia!»«Hatasareru chikai! Rukia dakkan naru ka!»(果たされる誓い! ルキア奪還なるか!)
-055 - «¡El Shinigami más fuerte! Combate definitivo entre el profesor y sus alumnos»«Saikyō no Shinigami! Kyūkyaku no shitei taiketsu»(最強の死神! 究極の師弟対決)
-056 - «¡La batalla supersónica! A determinar quién es la Diosa de la Lucha»«Chōsoku no tatakai! Bu no megami, kessu»(超速の戦い! 武の女神、決す)
-057 - «Senbonzakura, ¡aniquilada! Zangetsu se abre paso en los Cielos»«Senbonzakura, funsai! Ten o tsuku Zangetsu»(千本桜、粉砕! 天を衝く斬月)
-058 - «¡Liberación! La hoja negra, el poder milagroso»«Kaihō! Kuroki yaiba, kiseki no chikara»(開放! 黒き刃、奇跡の力)
-059 - «¡Conclusión de la lucha a muerte! Orgullo blanco e ímpetu negro»«Shitō ketchaku! Shiroki hokori to kuroki omoi»(死闘決着! 白き誇りと黒き想い)
-060 - «Realidad de la desesperación: la daga del asesino ha sido blandida»«Zetsubō no shinjitsu, furiorosareta kyōjin»(絶望の真実、振り下ろされた凶刃)
-061 - «¡Aizen en pie! Horribles ambiciones»«Aizen, tatsu! Osorubeki yabō»(藍染、立つ! 恐るべき野望)
-062 - «¡Reunión! Los Shinigami más fuertes, reunidos»«Shūketsu seyo! Saikyō no Shinigami shūdan»(集結せよ! 最強の死神集団)
-063 - «La decisión de Rukia, los sentimientos de Ichigo»«Rukia no ketsui, Ichigo no omoi»(ルキアの決意、一護の想い)
-064 - «Comienza el curso, ¿¡Renji ha venido al mundo real!?»«Shingakki, gense ni Renji ga yatte kita!?»(新学期、現世に恋次がやって来た!?)
-065 - «Terror escalofriante, la segunda víctima»«Shinobi yoru kyōfu, nibanme no giseisha»(忍び寄る恐怖、２番目の 牲者)
-066 - «¡Atraviesa! La trampa escondida en el Laberinto»«Toppa seyo! Meikyū ni hisomu wana»(突破せよ！迷宮に潜む罠)
-067 - «¡Juego mortal! El compañero de clase perdido»«Shi no gēmu! Kieru kurasumeito»(死のゲー ！消えるクラスメイト)
-070 - «¡El regreso de Rukia! Resurrección del equipo sustituto»«Rukia no kikan! Daikō chīmu fukkatsu»(ルキアの帰還！代行チー 復活)
-071 - «¡El momento de la colisión! Una mano maligna se aproxima al Quincy»«Gekitotsu no toki! Kuinshī ni semaru ma no te»(激突の時！クインシーに迫る魔の手)
-072 - «¡Ataque del Agua! Escape del hospital cerrado»«Mizu no kōgeki! Tozasareta byōin kara no dasshutsu»(水の攻撃！閉ざされた病院からの脱出)
-077 - «¡Rencor implacable! El Shinigami que mató Kenpachi»«Kienu onnen! Kenpachi ga kitta Shinigami»(消えぬ怨念！剣八が斬った死神)
-078 - «¡¡Sorprendentes revelaciones del Gotei 13!! La Verdad escondida en la Historia»«Gotei jūsantai kyōgaku!!Rekishi ni uzumoreta shinjitsu»(護廷十三隊驚愕!!歴史に埋もれた真実)
-079 - «Yoshino, la decisión de muerte»«Yoshino, shi o kaketa omoi»(芳野、死をかけた想い)
-080 - «¡Asalto de un enemigo formidable! ¡¿Una delgada línea de defensa final?!»«Kyōteki no kyūshū! Chiisana saishū bōei sen!?»(強敵の急襲! 小さな最終防衛線!?)
-081 - «¡Hitsugaya se mueve! La ciudad asediada»«Hitsugaya ugoku! Osowareta machi»(日番谷動く！襲われた街)
-082 - «¡Ichigo vs Dalk! La llegada de la Oscuridad que marchita»«Ichigo vs Daruku! Shirakigami no shutsugen»(一護VSダルク！白き闇の出現)
-083 - «La sombra gris, el secreto de las Doll»«Haiiro no kage, dōru no himitsu»(灰色の影、ドールの秘密)
-086 - «¡Rangiku en acción! ¡Corta al enemigo invisible!»«Rangiku, mau! Mienai teki o kire!»(乱菊舞う！見えない敵を斬れ！)
-087 - «¡Byakuya es convocado! El Gotei 13 comienza a moverse»«Byakuya shōshū! Ugokidasu Gotei jūsantai»(白哉召集！動き出す護廷十三隊)
-088 - «¿¡Aniquilación de los Tenientes?! Trampa en la cueva subterránea»«Fukutaichō zenmetsu!? Chikadōkutsu no wana»(副隊長全滅!?地下洞窟の罠)
-089 - «¿¡Revancha?! Ishida vs Nemu»«Saisen!? Ishida vs Nemu»(再戦!?石田VSネ )
-090 - «Renji Abarai, ¡el Bankai del Alma!»«Abarai Renji, tamashii no bankai!»(阿散井恋次、魂の卍解！)
-091 - «Shinigami y Quincy, el poder que renace»«Shinigami to Kuinshī, yomigaeru chikara»(死神とクインシー、よみがえる力)
-092 - «Invasión del mundo de los Shinigami, de nuevo»«Shinigami sekai e no totsunyū, futatabi»(死神世界への突入、再び)
-093 - «¡El Asalto de los Bount! Caos en el Gotei 13»«Baunto kyōshū! Gekishin no Gotei jūsantai»(バウンド強襲！激震の護廷十三隊)
-094 - «¡¡La decisión de Hitsugaya! El choque se avecina»«Hitsugaya no ketsui! Gekitotsu no tokisemaru»(日番谷の決意！激突の時迫る)
-095 - «¡Byakuya toma la iniciativa! La danza de las flores de cerezo que cortan el viento»«Byakuya shutsujin! Kaze o saku sakura no mai»(白哉出陣！風を裂く桜の舞)
-096 - «Ichigo, Byakuya y Kariya, ¡La Batalla de los tres extremos!»«Ichigo・Byakuya・Kariya, sankyoku no tatakai!»(一護・白哉・狩矢、三極の戦い!)
-097 - «¡Hitsugaya golpea! Corta al enemigo en el medio del bosque»«Hitsugaya Shutsugeki! Mori no naka no teki o kire!»(日番谷出撃！森の中の敵を斬れ)
-098 - «¡Choque! Kenpachi Zaraki vs Maki Ichinose»«Gekitotsu! Zaraki Kenpachi vs Ichinose Maki»(激突！更木剣八VS一之瀬真樹)
-099 - «¡Shinigami vs Shinigami! Un poder incontrolable»«Shinigami vs Shinigami! Bōsō suru chikara»(死神VS死神！暴走する力)
-100 - «¿Muere Suì-Fēng? La última de las Fuerzas Especiales»«Soifon shisu? Onmitsukidō no saigo»(砕蜂死す？ 密機動の最後)
-101 - «¡¡El Bankai de Mayuri!! Sawatari, el choque del demonio»«Mayuri bankai!! Sawatari・Akuma no gekitotsu»(マユリ卍解!!沢渡・悪魔の激突)
-102 - «¡El Último Quincy! El poder que explota»«Saigo no Kuinshī! Bōhatsu suru chikara»(最後のクインシー！暴発する力)
-103 - «Ishida, ¡excediendo los límites para atacar!»«Ishida, genkai o koete ute!»(石田、限界を超えて撃て！)
-104 - «¡Lucha en la 10ª División! Hyōrinmaru es liberada»«Shitō jūbantai! Hyōrinmaru o hanate»(死闘十番隊！氷輪丸を放て)
-105 - «¡Kariya! Cuenta atrás para la detonación»«Kariya! Bakuhatsu e no kauntodaun»(狩矢！爆発へのカウントダウン)
-106 - «¡Vida y venganza! Ishida, la elección definitiva»«Inochi to fukushū! Ishida, kyūkyoku no sentaku»(命と復讐！石田、究極の選択)
-107 - «¡La hoja que cae! El momento de la ruina»«Furiorosareta ha! Hametsu no shunka»(振り下ろされた刃！破滅の瞬間)
-108 - «¡Los lamentos del Bount! El último choque»«Dōkoku no baunto! Saigo no gekitotsu»(慟哭のバウント！最後の激突)
-109 - «Ichigo y Rukia, pensamientos que giran alrededor de los Cielos»«Ichigo to Rukia, kaiten suru omoi»(一護とルキア、廻天する想い)
-110 - «¡Regreso al trabajo de sustituto! El terrorífico estudiante de intercambio»«Daikōgyō saikai! Kyōfu no tenkōsei»(代行業再開！恐怖の転校生)
-111 - «¡Sorpresa! Las verdaderas identidades de los padres»«Kyōgaku! Oyajitachi no shōtai»(驚愕！親父達の正体)
-112 - «El comienzo de la Guerra, Visored y Arrancar»«Tatakai no hajimari, Vaizādo to Arankaru»(戦いの始まり、仮面の軍勢と破面)
-113 - «Preludio al Apocalipsis, el ataque de los Arrancar»«Sekai hōkai e no jokyoku, Arankaru shūrai»(世界崩壊への序曲、アランカル襲来)
-114 - «La reunión de Ichigo, Rukia y los Shinigami»«Saikai, Ichigo to Rukia»(再会、一護とルキア)
-115 - «¡Misión! Los Shinigami han llegado»«Tokumei! Yatte kita Shinigami tachi»(特命！やってきた死神たち)
-116 - «El ojo maligno, Aizen de nuevo»«Ashiki Hitomi, Aizen futatabi»(悪しき瞳、藍染再び)
-117 - «¡Comienza la batalla de Rukia! La espada blanca congelante»«Rukia sentō kaishi! Kōritsuku shiroi yaiba»(ルキア戦闘開始！凍りつく白い刃)
-118 - «¡El Bankai de Ikkaku! El poder que lo destruye todo»«Ikkaku Bankai! Subete o kudaku chikara»(一角卍解！全てを砕く力)
-119 - «¡La historia de la División de Zaraki! Los hombres afortunados»«Zaraki tai hiwa! Tsuite iru otokotachi»(更木隊秘話！ツイている男たち)
-120 - «¡Hitsugaya despedazado! Hyōrinmaru se rompe»«Hitsugaya chiru! Kudaketa Hyōrinmaru»(日番谷散る！砕けた氷輪丸)
-121 - «¡Choque! La persona que protege vs la persona que sufre»«Gekitotsu! Mamoru mono vs kōmuru mono»(激突！護る者ＶＳ被る者)
-122 - «¡Visored! El poder de los que han despertado»«Vaizādo! Mezameshi monotachi no chikara»(ヴァイザード！目覚めし者たちの力)
-123 - «Ichigo, ¡¿Hollowficación completa?!»«Ichigo, Kanzen Horō-ka!?»(一護、完全ホロウ化！？)
-124 - «¡Choque! Bankai negro contra Bankai blanco»«Gekitotsu! Kuroi bankai to shiroi bankai»(激突！黒い卍解と白い卍解)
-125 - «¡Informe urgente! El terrorífico plan de Aizen»«Kinkyū hōkoku! Aizen no osorubeki keikaku!»(緊急報告！藍染の恐るべき計画)
-126 - «¡Uryū vs Ryūken! Choque entre padre e hijo Quincy»«Uryū vs Ryūken! Gekitotsu Kuinshī oyako»(雨竜ＶＳ竜弦！激突クインシー親子)
-127 - «La decisión de Urahara, los pensamientos de Orihime»«Urahara no ketsudan, Orihime no omoi»(浦原の決断、織姫の想い)
-128 - «¡La pesadilla Arrancar! El equipo de Hitsugaya se pone en marcha»«Akumu no Arankaru! Hitsugaya tai shutsugeki»(悪夢のアランカル！日番谷隊出撃)
-129 - «¡La llegada del emisario oscuro! La propagación del Mal»«Maiorita yami no shisha! Zōshoku suru akui»(舞い降りた闇の使者！増殖する悪意)
-130 - «¡Enemigo invisible! La decisión implacable de Hitsugaya»«Mienai teki! Hitsugaya, hijō na ketsudan»(見えない敵！日番谷、非情な決断)
-131 - «Las lágrimas de Rangiku, la dolorosa despedida de los hermanos»«Rangiku no namida, kanashiki kyōdai no wakare»(乱菊の涙、哀しき兄妹の別れ)
-132 - «Hitsugaya, Karin y el balón de fútbol»«Hitsugaya to Karin to sakkā bōru»(日番谷と夏梨とサッカーボール)
-133 - «Ikkaku, la historia del Kendo a sangre caliente»«Ikkaku, nekketsu kendō monogatari»(一角、熱血剣道物語)
-134 - «¡Yumichika! El hermoso pastelero»«Utsukushiki patishie, Yumichika!»(美しきパティシエ、弓親！)
-135 - «¡Kon es engañado! Rangiku, a la búsqueda..»«Hakarareta, Kon! Rangiku wa mite ita»(はかられた、コン！乱菊は見ていた・・)
-136 - «¡Guerra Civil en el Hueco Mundo! La muerte de Ulquiorra»«Ueko Mundo nairan! Urukiora no shi»(ウェコ ンド内乱！ウルキオラの死)
-137 - «La batalla maliciosa, la trampa de Aizen"«Akui no tatakai, Aizen no wana»(悪意の戦い、藍染の罠)
-138 - «¡Segundo ataque del Hueco Mundo! Hitsugaya vs Yammy»«Ueko Mundo sai dō! Hitsugaya vs Yamī»(ウェコ ンド再動!日番谷ＶＳヤミー)
-139 - «Ichigo vs Grimmjow, ¡la batalla de los 11 segundos!»«Ichigo vs Gurimujō, jūichi byō no tatakai!»(一護ＶＳグリ ジョー、 １１秒の戦い)
-140 - «El ardid de Ulquiorra, el momento en que se pone el Sol»«Sakubō no Urukiora, taiyō ga shizumu toki»(策謀のウルキオラ、太陽が沈む時)
-141 - «Adiós... Kurosaki»«Sayonara..., Kurosaki-kun»(さよなら・・・、黒崎くん)
-142 - «¡Orden! Prohibido el rescate de Orihime Inoue»«Genmei! Inoue Orihime no kyujutsu o kinzu»(厳命！井上織姫ノ救出ヲ禁ズ)
-143 - «El resurgimiento de Grimmjow»«Fukkatsu no Gurimujō»(復活のグリ ジョー)
-144 - «Ishida y Chad, el repentino aumento de un nuevo poder»«Ishida・Chado, atarashiki chikara no taidō»(石田・チャド、新しき力の胎動)
-145 - «¡Reunión de los Espada! La Asamblea Real de Aizen»«Esupāda shūketsu! Aizen no gozen kaigi»(エスパーダ集結！藍染の御前会議)
-146 - «¡Su nombre es Nell! La aparición de la extraña Arrancar»«Sono na wa Neru! Fushigi na Arankaru tōjō»(その名はネル！不思議なアランカル登場)
-147 - «¡El Bosque de Menos! La búsqueda de Rukia»«Menosu no mori! Kieta Rukia o sakase»(メノスの森！消えたルキアを探せ)
-148 - «Ashido, el Shinigami que vino del pasado»«Ashido, kako kara kita Shinigami»(アシド、過去から来た死神)
-149 - «El bosque colapsa, un millón de Menos»«Kuzureiku mori, hyakuman no Menosu»(崩れ行く森、百万のメノス)
-150 - «¡Juramento! Regresar vivos allí»«Chikai! Futatabi Ikite kono basho e»(誓い！再び生きてこの場所へ)
-151 - «¡Furiosa tempestad! Encuentro con el Arrancar bailarín»«Fukiareru bōfū! Odoru Arankaru to no sōgū»(吹き荒れる暴風！踊るアランカルとの遭遇)
-152 - «¡Ichigo contrataca! Éste es mi Bankai»«Ichigo hangeki! Koitsu ga ore no bankai da»(一護反撃！こいつが俺の卍解 )
-153 - «¡Malévola investigación! El plan de Szayel Aporro»«Akuma no kenkyū! Zaeruaporo no takurami»(悪魔の研究！ザエルアポロの企み)
-154 - «Rukia y Kaien, el doloroso encuentro»«Rukia to Kaien, kanashimi no saikai»(ルキアと海燕、哀しみの再会)
-155 - «¡Rukia contraataca! Lanza el Kidō desesperado»«Rukia hangeki! Kesshi no Kidō o hanate»(ルキア反撃！決死の鬼道を放て)
-156 - «Ishida y Pesche, el ataque conjunto de la amistad»«Ishida & Pesshe, yūjō no gattai kōgeki»(石田＆ペッシェ、友情の合体攻撃)
-157 - «El arma secreta de Ishida, la Cortadora de Almas»«Ishida no kirifuda, tamashī o kirisaku mono»(石田の切り札、魂を切り裂くもの)
-158 - «El brazo derecho del Gigante, el brazo izquierdo del Diablo»«Kyojin no uwan, akuma no sawan»(巨人の右腕、悪魔の左腕)
-159 - «¡Muere Yasutora Sado! Las lágrimas de Orihime»«Sado Yasutora shisu! Orihime no namida»(茶渡泰虎死す！織姫の涙)
-160 - «Testamento - Tu corazón está aquí»«Yuigon - Kokoro wa koko ni»(遺言 心はここに)
-161 - «El cruel Arrancar, la provocación de Ulquiorra»«Zankoku na Arankaru, Urukiora no chōhatsu»(残酷な破面、ウルキオラの挑発)
-162 - «La risa de Szayel Aporro, la red alrededor de Renji está completa»«Warau Zaeruaporo, Renji hōi ami kansei»(笑うザエルアポロ、恋次包囲網完成)
-163 - «Shinigami y Quincy, la batalla contra la locura»«Shinigami to Kuinshī, kyōki to no tatakai»(死神とクインシー、狂気との戦い)
-164 - «La estrategia de Ishida, 20 segundos de ataque y defensa»«Ishida no sakusen, nijū byō no kōbō»(石田の作戦、20秒の攻防)
-165 - «¡Hierve la intención asesina! La alegría de Grimmjow»«Satsui futtō! Kanki no Gurimujō»(殺意沸騰！歓喜のグリ ジョー)
-166 - «¡Esfuerzo desesperado vs esfuerzo desesperado! Ichigo se transforma en Hollow»«Shiryoku vs shiryoku! Horōkashita Ichigo»(死力ＶＳ死力！ホロウ化した一護)
-167 - «El momento de la conclusión, el fin de Grimmjow»«Kecchaku no toki, Gurimujō no saigo»(決着の時、グリ ジョーの最後)
-168 - «¡Aparece el nuevo Capitán! Su nombre es Shūsuke Amagai»«Shin taichō tōjō! Sono namae wa Amagai Shūsuke»(新隊長登場！その名前は天貝繍助)
-169 - «Nuevo desarrollo, ¡aparece la peligrosa estudiante de intercambio!»«Shin tenkai, kiken na tenkōsei arawaru!»(新展開､危険な転校生現る！)
-170 - «Lucha desesperada bajo la luz de la luna, el misterioso Asesino y su Zanpaku-tō»«Tsukiyo no shitō, nazo no shikaku to Zanpakutou»(月夜の死闘、謎の刺客と斬魄刀)
-171 - «Kenryū, la profusión de flores carmesíes»«Kenryū, sakimidareru beni no hana»(犬龍、咲き乱れる紅の華)
-172 - «¡Kibune va a la guerra! La furiosa Reppu»«Kibune shutsujin! Fukiareru Reppū»(貴船出陣！吹き荒れる烈風)
-173 - «¡La aparición del Mal! Oscuridad en la Casa de los Kasumiōji»«Kyoaku no tōjō! Kasumiōji ka no yami»(巨悪の登場！霞大路家の闇)
-174 - «¡Rompe la barrera del espejo! Ichigo cautivo»«Kagami no kyōkai o yabure! Toraware no Ichigo»(鏡の境界を破れ！捕らわれの一護)
-175 - «El asesino vengativo, el objetivo es Ichigo»«Fukushū no shikaku, nerawareta Ichigo»(復讐の刺客、狙われた一護)
-178 - «La pesadilla es revelada, Ichigo está dentro del espejo»«Miserareta akumu, kagami no naka no Ichigo»(見せられた悪夢、 鏡の中の一護)
-179 - «¿¡Enfrentamiento!? Amagai vs Gotei 13»«Tairitsu!? Amagai vs Gotei jūsantai»(対立！？ 天貝VS護廷十三隊)
-180 - «La decisión de la Princesa, la afligida novia»«Hime no ketsui, kanashiki hanayome»(姫の決意、哀しき花嫁)
-181 - «¡Despliegue de la 2ª División! Ichigo es rodeado»«Nibantai shutsugeki! Hōisareta Ichigo»(二番隊出撃！包囲された一護)
-182 - «La verdadera fuerza de Amagai, ¡liberación de la Zanpaku-tō!»«Amagai no jitsuryoku, Zanpakutou kaihō!»(天貝(あまがい)の実力、斬魄刀解放！)
-183 - «¡La Oscuridad se mueve! Las verdaderas intenciones de Kibune»«Ugokidashita yami! Kibune no shōtai»(動き出した闇！貴船の正体)
-184 - «Kira y Kibune, el ataque y la defensa de la 3ª División»«Kira to Kibune, sanbantai no kōbō»(吉良と貴船、三番隊の攻防)
-185 - «¡Hielo y llama! La fiera lucha Amagai vs Hitsugaya»«Kōri to honō! Amagai vs Hitsugaya no gekitō»(氷と炎！天貝VS日番谷の激闘)
-186 - «¡Órdenes de salida! Suprimir la Casa de los Kasumiōji»«Shutsugeki shirei! Kasumiōji ka o seiatsuseyo»(出撃指令！霞大路家を制圧せよ)
-187 - «¡Ichigo se enfurece! El secreto del asesino»«Ichigo gekido! Ansatsusha no himitsu»(一護激怒！暗殺者の秘密)
-188 - «¡Duelo! Amagai vs Ichigo»«Kettō! Amagai vs Ichigo»(決闘！天貝ＶＳ一護)
-189 - «El orgullo del Shinigami caído»«Ochita Shinigami no hokori»(堕ちた死神の誇り)
-190 - «Saga del Hueco Mundo, ¡retorno!»«Ueko Mundo hen, saikai!»(ウェコ ンド、再会！)
-191 - «El terrible banquete, el teatro de Szayel Aporro»«Kyōen, Zaeruaporo gekijō»(恐宴, ザエルアポロ劇場)
-192 - «El secreto de Nell, ¿¡Una belleza de pechos grandes se une a la lucha!?»«Neru no himitsu, kyonyū bijo sansen!?»(ネルの秘密, 巨乳美女参戦！？)
-193 - «Irresistible, el show de marionetas del terror»«Teikō funō, kyōfu no ningyōgeki»(抵抗不能、恐怖の人形劇)
-194 - «El pasado de Nelliel»«Nerieru no kako»(ネリエルの過去)
-195 - «¡Unión definitiva! La seriedad de Pesche»«Kyūkyoku gattai! Pesshe no honki»(究極合体！ ペッシェの本気)
-196 - «El ejército de los Shinigami más fuertes aparece»«Saikyō Shinigami gundan tōjō»(最強死神軍団登場)
-197 - «Elbankaide Byakuya, ira silenciosa»«Byakuya bankai, shizukanaru ikari»(白夜の哉卍解、静かなる怒り)
-198 - «Los dos científicos, la trampa de Mayuri»«Futari no kagakusha, Mayuri no wana»(二人の科学者、マユリの罠)
-199 - «Nacimiento divino, Szayel Aporro resucitado»«Seitan, yomigaeru Zaeruaporo»(誕、蘇るザエルアポロ)
-200 - «¿¡El cuerpo más resistente?! Nnoitra es cortado»«Saikō no karada!? Noitora o kire»(最硬の体！?ノイトラを斬れ)
-201 - «¡Nnoitra libera! Brazos que se multiplican»«Noitora kaihō! Zōshokushita ude»(ノイトラ開放！増殖した腕)
-202 - «¡El final de la feroz lucha! ¿Quién es el más fuerte?»«Gekitō kecchaku! Saikyō wa dare da»(激動決着! 最強は誰だ)
-203 - «¡Encuentro en Karakura Town! Aizen contra los Shinigami»«Karakura-chō ni shūketsu! Aizen tai Shinigami»(空座町に集結！藍染対死神)
-204 - «La estrategia de persuasión del seppuku de Ichigo»«Ichigo no seppuku settoku sakusen»(一護の切腹説得作戦)
-205 - «¡Golpea! Un torneo de fútbol lleno de Hollows»«Doki! Horō darake no kemari taikai»(ドキ! 虚だらけの蹴鞠大会)
-206 - «¡Comienza la Saga del Pasado! La verdad de hace 110 años»«Kako hen kaishi! Hyakujū nen mae no shinjitsu»(過去編開始！十百十年前の真実)
-207 - «El nuevo Capitán de la 12ª División, Kisuke Urahara»«Jūnibantai shin taichō, Urahara Kisuke»(十二番隊新真隊長、原喜助)
-208 - «Aizen y el joven genio»«Aizen to tensai shōnen»(藍染と天才少年)
-209 - «La 9ª División de Muguruma avanza»«Muguruma Kyūbantai, shutsudōse yo»(六車九番隊、出動背せよ)
-210 - «¿Muere Hiyori? El comienzo de la tragedia»«Hiyori shisu? Higeki no hajimari»(ひよ里死す？悲劇の始まり)
-211 - «¡Traición! Las maniobras secretas de Aizen»«Uragiri! An'yaku no Aizen»(裏切り！暗躍の藍染)
-212 - «¡Rescata a Hirako! Aizen vs Urahara»«Hirako o sukue! Aizen vs Urahara«»(平子を救え！藍染VS浦原)
-213 - «Nace el Karakuraizer, detective de entierros de almas»«Konsō keiji Karakuraizā tanjō»(魂葬刑事カラクライザー誕生)
-214 - «El último día del Karakuraizer»«Karakuraizā saigo no hi»(カラクライザー最後の日)
-215 - «¡La defensa de Karakura Town! La llegada de todos los Shinigami»«Karakura-cho o mamore! Shinigami sō tōjō»(空座町を護れ！死神総登場)
-216 - «¡Elite! Los cuatro Shinigami»«Seiei! Yon nin no Shinigami»(精鋭！四人の死神)
-217 - «El hermoso diablillo Charlotte»«Utsukushiki koakuma Sharurotte»(美しき小悪魔シャルロッテ)
-218 - «Kira, la batalla dentro de la desesperación»«Kira, zetsubō no naka de no tatakai»(吉良、絶望の中での戦い)
-219 - «¡Elshikaide Hisagi! Su nombre es...»«Hisagi shikai! Sono na wa...»(檜佐木始解！その名は…)
-220 - «¡Ikkaku cae! La crisis de los Shinigami»«Ikkaku taoreru! Shinigami no kiki»(一角倒れる！死神の危機)
-221 - «¡Enfrentamiento total! Shinigami vs Espada»«Zenmen taiketsu! Shinigami VS Esupāda»(全面対決！死神VS十刃)
-222 - «¿¡El equipo más malvado!? Suì-Fēng y Ōmaeda»«Saikyō taggu!? Soifon & Ōmaeda»(最凶タッグ！？砕蜂＆大前田)
-223 - «¡Un cuerpo milagroso! Ggio libera»«Kyōi no nikutai! Jio kaihō»(驚異の肉体！ジオ解放)
-224 - «¡Batalla 3 vs 1! Los problemas de Rangiku»«3 VS 1 no sentō! Pinchi no Rangiku»(３VS１の戦闘！ピンチの乱菊)
-225 - «¡Todos los Tenientes aniquilados! La terrorífica bestia demoníaca»«Fukutaichō zenmetsu! Kyōfu no yōjū»(副隊長全滅！恐怖の妖獣)
-226 - «¿Acaba la fiera lucha? ¡Hacia una nueva batalla!»«Gekitō shūketsu? Arata naru tatakai he!»(激闘終結？新たなる戦いへ！)
-227 - «Error maravilloso»«Wandafuru erā»(ワンダフル・エラー)
-228 - «¡Verano! ¡Mar! ¡¡Festival de trajes de baño!!»«Natsu da! Umi da! Mizugi sai!!»(夏 ！海 ！水着祭！！)
-229 - «¿Grito del alma? ¡Nace el Shinigami con peluca!»«Tamashii no sakebi? Zura shinigami tanjō!»(魂の叫び？ヅラ死神誕生！)
-230 - «¡Un nuevo enemigo! La materialización de las Zanpaku-tō»«Arata naru teki! Zanpakutou jittai-ka»(新たなる敵！斬魄刀実体化)
-231 - «Byakuya, desapareciendo con las flores del cerezo»«Byakuya, sakura totomo ni shō yu»(白哉、桜と共に消ゆ)
-232 - «¡Sode no Shirayuki vs Rukia! La confusión del corazón»«Sode no Shirayuki VS Rukia!»(袖白雪ＶＳルキア！心の惑い)
-233 - «Zangetsu se convierte en enemigo»«Teki to natta Zangetsu»(敵となった斬月)
-234 - «¿¡Renji sorprendido!? Los dos Zabimaru»«Renji kyōgaku!? Futari no Zabimaru»(恋次驚愕!? 2人の蛇尾丸)
-235 - «¡Choque! Hisagi vs Kazeshini»«Gekitotsu! Hisagi VS Kazeshini»(激突！檜佐木ＶＳ風死)
-236 - «¡Liberación! El nuevo Getsuga Tenshō»«Hanate! Arata naru Getsuga Tenshō»(放て！新たなる月牙天衝)
-237 - «Suì-Fēng, rodeando a la Zanpaku-tō»«Soifon, Zanpakutou o hōi seyo»(砕蜂、斬魄刀を包囲せよ)
-238 - «¿Amistad? ¿Odio? Haineko y Tobiume»«Yūjō? Keno? Haineko & Tobiume»(友情？嫌悪？灰猫＆飛梅)
-239 - «¡El despertar de Hyōrinmaru! La fiera lucha de Hitsugaya»«Mezameyo Hyōrinmaru! Hitsugaya gekitō»(目覚めよ氷輪丸！日番谷激闘)
-240 - «La traición de Byakuya»«Uragiri no Byakuya»(裏切りの白哉)
-241 - «¡Por el Orgullo! Byakuya vs Renji»«Hokori no tame ni! Byakuya VS Renji»(誇りのために！白哉ＶＳ恋次)
-242 - «Shinigami y Zanpaku-tō, salida total»«Shinigami & Zanpakutou, sō shutsugeki»(死神＆斬魄刀、総出撃)
-243 - «¡Pelea mano a mano! Ichigo vs Senbonzakura»«Ikkiuchi! Ichigo VS Senbonzakura»(一騎打ち！一護ＶＳ千本桜)
-244 - «El largamente esperado... ¡Aparece Kenpachi!»«Man o jishite...Kenpachi tōjō!»(満を持して…剣八登場！)
-245 - «¡Persigue a Byakuya! Las confusas divisiones del Gotei»«Byakuya o oe! Konran no Gotei tai»(白哉を追え！混乱の護廷隊 )
-246 - «¡Misión especial! Rescatar al Comandante General Yamamoto»«Tokumu! Yamamoto sōtaichō o kyūshutsu seyo!»(特務！山本総隊長を救出せよ！)
-247 - «¡Los Shinigami son engañados! La crisis del colapso mundial»«Damasareta Shinigami! Sekai hōkai no kiki»(騙された死神！世界崩壊の危機)
-248 - «¡Dragón de hielo y dragón de fuego! El enfrentamiento de los más fuertes»«Kōri no ryū to honō no ryū! Saikyō taiketsu!»(氷の龍と炎の龍！最強対決！)
-249 - «¡El bankai de Senbonzakura! Ataque y defensa del mundo de los vivos»«Senbonzakura bankai! Gensei no kōbō»(千本桜卍解！現世の攻防)
-250 - «Aquel hombre, por la Familia Kuchiki»«Sono otoko・Kuchiki-ke yue ni»(その男・朽木家ゆえに)
-251 - «¡Historia oscura! Nace el Shinigami más malvado»«Yami no rekishi! Saikyō no Shinigami, tanjō»(闇の歴史！最凶の死神、誕生)
-252 - «Byakuya, la verdad detrás de la traición»«Byakuya, uragiri ni kakusareta shinjitsu»(白哉、裏切りに された真実)
-253 - «La verdadera identidad de Muramasa es revelada»«Akasa re ta Muramasa no shōtai»(明かされた村正の正体 )
-254 - «Byakuya y Renji, el regreso de la 6ª División»«Byakuya to Renji, roku bantai futatabi»(白哉と恋次、六番隊再び )
-255 - «Capítulo final · Los Cuentos Desconocidos de las Zanpaku-tō»«Shūshō · Zanpakutou Ibun Hen»(終章・斬魄刀異聞篇 )
-256 - «¡El enojo de Byakuya! La familia Kuchiki colapsa»«Ikari no Byakuya! Kuchiki-ke hōkai»(怒りの白哉！朽木家崩壊)
-257 - «¡Un nuevo enemigo! La verdadera naturaleza de las Bestias-Espadas»«Arata na teki! Tōjū no shōtai»(新たな敵！刀獣の正体)
-258 - «Serpiente extraviada, mono torturado»«Maigo no hebi, jūnan no saru»(迷子の蛇、受難の猿)
-259 - «¡Terror! El monstruo que se enconde en las profundidades»«Kyōfu! Chika ni hisomu kaibutsu»(恐怖！地下に潜む怪物)
-260 - «¿¡Conclusión!? Hisagi vs Kazeshini»«Kecchaku!? Hisagi VS Kazeshini»(決着！？檜佐木VS風死)
-261 - «¡La persona con la habilidad desconocida! El objetivo es Orihime»«Michi naru nōryoku sha! Nera wareta Orihime»(未知なる能力者！狙われた織姫)
-262 - «¡Haineko llora! La trágica Bestias-Espadas»«Haineko gōkyū! Higeki no tōjū»(灰猫号泣！悲劇の刀獣)
-263 - «¡¿Encarcelamiento?! Senbonzakura y Zabimaru»«Yūhei?! Senbonzakura & Zabimaru»(幽閉？！千本桜＆蛇尾丸)
-264 - «¿Batalla de mujeres? Nanao vs Katen Kyōkotsu»«Onna no tatakai? Nanao VS Katen Kyōkotsu»(女の戦い？七緒ＶＳ花天狂骨)
-265 - «¡¿Evolución?! La amenaza de la bestia espada final»«Shinka?! Saigo no tōju no kyōi»(进化!? 最後 の 刀 獣 の 驚異)
-266 - «Un nuevo comienzo, Ichigo VS Ulquiorra»«Ichigo VS Urukiora, saikai»(一護VSウルキオラ、再開)
-267 - «¡Corazones Conectados! ¡El puño izquierdo preparado para la muerte!»«Tsunagaru kokoro! Kesshi no hidari kobushi!»(繋がる心！決死の左拳)
-268 - «El odio y los celos, el dilema de Orihime»«Zōo to shitto kyūchi no Orihime»(憎悪と嫉妬 窮地の織姫)
-269 - «Ichigo y Uryū, el vinculo espalda con espalda»«Ichigo to Uryū, senaka awase no kizuna»(一護と雨竜、背中合わせの絆)
-270 - «Ichigo...el comienzo de la desesperación, la espada inalcanzable»«Zetsubō no hajimari...Ichigo, todokanu yaiba»(絶望の始まり…一護、届かぬ刃)
-271 - «¡Ichigo muere! ¡Orihime, el llanto de dolor!»«Ichigo shisu! Orihime, hitsū no sakebi!»(一護死す！織姫、悲痛の叫び！)
-272 - «¡Final! Ichigo VS Ulquiorra»«Ichigo VS Urukiora, kecchaku!»(一護VSウルキオラ、決着！)
-273 - «¡La furia del tiburón! La liberación de Halibel»«Same no mōi! Hariberu kaihō»(鮫の猛威！ハリベル解放)
-274 - «¡Hitsugaya,El Funeral Celeste de las Cien Flores Heladas del suicidio!»«Hitsugaya, sutemi no Hyōten Hyakkasō!»(日番谷、捨て身の氷天百華葬！)
-275 - «¡El aliento de muerte se aproxima, El rey qué manda sobre la muerte!»«Semaru shi no ibuki, shi o tsukasadoru ou!»(迫る死の息吹、死を司る王！)
-276 - ««¡Un golpe a matar, Suì-Fēng, Bankai!»»«Ichigeki kessatsu, Suí-Fēng, bankai!»(一撃決殺、砕蜂、卍解！)
-277 - «¡Clímax! ¡Kyōraku vs. Starrk!»«Hakunetsu! Kyōraku VS Sutāku!»(白熱！京楽ＶＳスターク！)
-278 - ««La pesadilla regresa...el resurgimiento de los Espada»»«Akumu futatabi...fukkatsu no Esupāda»(悪夢再び…復活の十刃)
-279 - «Hirako y Aizen...¡el reencuentro del destino!»«Hirako to Aizen...innen no saikai!»(平子と藍染…因縁の再会！)
-280 - «Hisagi y Tousen, el momento de partir»«Hisagi to Tōsen, ketsubetsu no toki!»(檜佐木と東仙、訣別の時)
-281 - «Corona de engaños, el rencor de Baraggan»«Itsuwari no ōkan, Baragan no enkon»(偽りの王冠、バラガンの怨恨)
-282 - «¡Poder del alma!, ¡Los Lobos, atacan!»«Tamashī no chikara! Rosu Robosu, shūrai!»(魂の力！群狼 ロス・ロボス 、襲来 ! ！)
-283 - «Starrk, la batalla del solitario»«Sutāku, tatta hitori no tatakai»(ターク、たった独りの戦い)
-284 - «Cadena de sacrificio, el pasado de Halibel»«Gisei no rensa, Hariberu no kako»(犠牲の連鎖、ハリベルの過去)
-285 - «¡Cien años de rencor! La venganza de Hiyori»«Hyakunen no enkon! Hiyori no fukushū»(百年の怨恨！ひよ里の復讐)
-286 - «¡El regreso de Ichigo! Proteger a Karakura»«Ichigo no kikan! Karakura-cho o mamore»(一護の帰還！空座町を護れ)
-287 - «¡Gaiden! Ichigo y la lámpara mágica»«Gaiden! Ichigo to mahou no ranpu»(外伝！一護と魔法のランプ)
-288 - «¡La carta final del triunfo, Ichigo, hacia la batalla decisiva»«Saigo no kirifuda! Ichigo, kessen e»(最後の切り札！一護、決戦へ)
-289 - «¡¿Byakuya Vs. Kenpachi?! La batalla cuerpo a cuerpo comienza»«Byakuya VS Kenpachi?! Ransen kaishi»(白哉ＶＳ剣八？！乱戦開始)
-290 - «¡¿Por el bien de la justicia?! El hombre que abandonó a los Shinigami»«Seigi no tame ni?! Shinigami o suteta otoko»(正義の為に？！死神を捨てた男)
-291 - «¡Lucha desesperada con Aizen! ¡Hirako, shikai!»«Aizen to no shitō! Hirako, shikai!»(藍染との死闘！平子、始解！)
-292 - «¡Guerra Total! Aizen Vs. Shinigami»«Zenmen sensō! Aizen VS shinigami»(全面戦争！藍染ＶＳ死神)
-293 - «¡La espada de odio! ¡Hitsugaya, enfurecido!»«Nikushimi no ha! Hitsugaya, gekkō!»(憎しみの刃！日番谷、激昂)
-294 - «¿Imposible de atacar? ¡Genryūsai sellado!»«Kōgeki funō? Fūji rareta Genryūsai!»(攻撃不能？封じられた元柳斎！)
-295 - «Todo esto es una trampa... ¡Enlaces diseñados!»«Subete wa wana...shikuma reta kizuna!»(全ては罠...仕組まれた絆！)
-296 - «La impactante verdad... ¡El misterioso poder dentro de Ichigo!»«Shōgeki no shinjitsu...Ichigo ni himera reta chikara!»(衝撃の真実...一護に秘められた力！)
-297 - «¡¿La hoja de la espada extendida?! ¡Ichigo vs Gin!»«Nobiru ha!? Ichigo VS Gin!»(伸びる刃！？一護VSギン！)
-298 - «¡Cine! ¡Festival! ¡Festival de cine Shinigami!»«Eiga da! Matsuri da! Shinigami eiga sai!»(映画だ！祭りだ！死神映画祭！)
-299 - «¡Conmemoración de apertura del teatro! Capítulo Infierno · Prólogo»«Gekijō kōkai kinen! Jigoku Hen・Joshō»(劇場公開記念！地獄編・序章)
-300 - «¡Urahara aparece! ¡Detente Aizen!»«Urahara tōjō! Aizen o soshi seyo!»(浦原登場！藍染を阻止せよ！)
-301 - «¿¡Ichigo pierde su espíritu de lucha!? La expectativa de Gin»«Ichigo, seni sōshitsu!? Gin no omowaku!»(一護、戦意喪失！？ギンの思惑！)
-302 - «¿¡El Getsuga Tenshō Final!? ¡El entrenamiento de Ichigo!»«Saigo no Getsuga Tenshō!? Ichigo no shugyō!»(最後の月牙天衝！？一護の修行！)
-303 - «¡Mundo real y shinigami! ¡El especial de Año Nuevo!»«Gensei mo shinigami mo! Oshōgatsu supesharu»('現世も死神も！お正月スペシャル！)
-304 - «¡Gaiden otra vez! ¿¡Este enemigo de ahora es un monstruo!?»«Gaiden futatabi! Kondo no teki ha monsutā!?»(外伝再び！今度の敵はモンスター！？)
-305 - «Hisagi, hacia las aguas termales»«Hisagi, onsen ryokan e»('檜佐木、温泉旅館へ)
-306 - «¡Por el bien de proteger! Ichigo Vs Tensa Zangetsu»&nbsp   
-«Mamoru tame ni! Ichigo VS Tensa Zangetsu!» (護るために！一護ＶＳ天鎖斬月！)
-307 - «¡Situación de emergencia! Aizen, la nueva evolución»«Kinkyū jitai! Aizen, saranaru shinka» (緊急事態！藍染、更なる進化！)
-308 - «Adiós... Rangiku»«Sayonara...Rangiku»(さよなら…乱菊)
-309 - «¡Fin de la feroz batalla! ¡Libera, Getsuga Tenshō final!»«Gekitō kecchaku! Hanate, saigo no Getsuga Tenshō! (激闘決着！放て、最後の月牙天衝！)»
-310 - «¡La resolución de Ichigo! El precio de la feroz batalla»«Ichigo no kakugo! Gekitō no daishō»(一護の覚悟！激闘の代償)
-311 - «El detective del alma · Karakuraizer ¡Despega de nuevo!»«"Tamashī no keiji・Karakuraizā sai hasshin!»(魂葬刑事・カラクライザー再発進！)
-312 - «¡Inauguración! ¡Nuevo capitán de la Segunda división!»«Shūnin! Arata naru ban ni ban tai taichō!»(就任！新たなる二番隊隊長！)»
-313 - «¡El hombre quien arriesga su vida en la Décimo-primera División!»«Jūichi ban tai ni inochi o kaketa otoko»(十一番隊に命を懸けた男！)»
-314 - «¡Kon es visto! El secreto de una chica hermosa»«Kon wa mita! Bijin OL no himitsu»(コンは見た！美人OLの秘密)»
-315 - «¡El amigo de Yachiru! ¡El shinigami de la justicia aparece!»«Yachiru no tomo! Seigi no shinigami toujou!»(やちるの友！正義の死神登場)»
-316 - «¡Las vacaciones de Toshirō Hitsugaya!»«Hitsugaya Toshirō no kyūjitsu»(日番谷冬獅郎の休日！)»
-317 - «¡¿Un inusual caso en el Seireitei?! ¡Saga de la Invasión armada al Gotei 13!»«Seireitei ni ihen?! Gotei jūsan tai shingun hen!»(一護VSウルキオラ、再開)
-318 - «¿¡Renji Vs. Rukia?! ¡Batalla con compañeros!»«Renji VS Rukia?! Nakama to no tatakai!»(繋がる心！決死の左拳)
-319 - «¡Red de captura de Ichigo! ¡Escapa de la Sociedad de Almas!»«Ichigo hobakumō! Sōru Sosaetī o dasshutsu seyo!»(憎悪と嫉妬 窮地の織姫)
-320 - «¡Gotei 13, Encuentro en el mundo real!»«Gotei jūsan tai, gensei ni shūketsu!»(一護と雨竜、背中合わせの絆)
-321 - «¡Confrontación de mutuo acuerdo, Ikkaku Vs. Ikkaku!»«Jibun dōshi no taiketsu, Ikkaku VS Ikkaku!»(絶望の始まり…一護、届かぬ刃)
-322 - «¡Choque! ¡Rukia Vs. Rukia!»«Gekitotsu! Rukia VS Rukia!»(一護死す！織姫、悲痛の叫び！)
-323 - «¡Protege a Ichigo! La determinación de Nozomi»«Mamore Ichigo! Nozomi no ketsui»(一護VSウルキオラ、決着！)
-324 - «¡Recaptura Seireitei! ¡Los capitanes en movimiento!»«Seireitei dakkan e! Taichō tachi, ugoku!»(鮫の猛威！ハリベル解放)
-325 - «¡Por el bien de los que creen! ¡Byakuya Vs. Hitsugaya!»«Shinzuru mono no tame ni! Byakuya VS Hitsugaya!»(日番谷、捨て身の氷天百華葬！)
-326 - «Las dos Hinamori, la resolución de Hitsugaya»«Futari no Hinamori, Hitsugaya no kakugo»(迫る死の息吹、死を司る王)
-327 - ««¡El orgullo de la familia Kuchiki! Byakuya Vs Byakuya»»«Kuchiki ka no hokori! ¡Byakuya VS Byakuya!»(一撃決殺、砕蜂、卍解！)
-328 - «¡Vence a Kageroza! ¡Shinigami, guerra total!»«Kageroza o taose! Shinigami, sōryokusen!»(白熱！京楽ＶＳスターク！)
-329 - ««La investigación prohibida... ¡El oculto secreto de Nozomi!»»«Kindan no kenkyū...Nozomi ni kakusa reta hitmitsu!»(悪夢再び…復活の十刃)
-330 - «¡Yo quiero vivir...! La Zanpaku-tō de Nozomi»«Iki tai...! Nozomi no Zanpakutou»(生きたい…！望実の斬魄刀)
-331 - «¡Por el bien de la pelea! ¡El despertar de Nozomi!»«Tatakau tame ni! Mezameyo Nozomi!»(戦うために！ 目覚めよ望実！)
-332 - «¡El Reigai más diabólico, aparece en el Mundo Real!»«Sai kyō no reigai, gensei ni genru!»(最凶の霊骸、 現世に現る！)
-333 - «¿¡Destruir a Nozomi?! La decisión de Genryusai»«Nozomi o kesu!? Genryusai no ketsudan»(望実を消す!? 元柳斎の決断！)
-334 - «¡El reiatsu agotado! Ichigo, la lucha mortal del alma»«Ushinawareru reiatsu! Ichigo, tamashī no shitō!»(失われる霊圧！ 一護、魂の死闘！
-335 - «¿Oculto en el Dangai? ¿¡Ichigo está solo!?»«Dangai ni senpuku? Mou ichi nin no Ichigo!?»(断界に潜伏？もう一人の一護！？)
-336 - «¡Persigue a Kageroza! ¡Infiltración, Departamento de Desarrollo Tecnológico!»«Kageroza o oe! Gijutsukaihatsu Kyoku, sennyū!»(影狼佐を追え！技術開発局、潜入！)
-337 - «El desarrollador de las Almas Modificadas»«Kaizō konpaku no kaihatsusha»(改造魂魄の開発者)
-338 - «Los pensamientos de Kon, los pensamientos de Nozomi»«Kon no omoi, Nozomi no omoi»(コンの想い、望実の想い)
-339 - «¡Protege a Ichigo! ¡Los lazos de amigos!»«Ichigo o mamore! Nakama tachi no kizuna!»(一護を護れ!仲間たちの絆!)
-340 - «¡Reigai vs Original! ¡La feroz batalla por el orgullo jugado!»«Reigai VS genshu, hokori o kaketa gekitō!»(霊骸VS原種、誇りをかけた激闘)
-341 - «¡Conclusíon de la saga de la Invasión Armada!»«Shingun hen, saishū kecchaku!»(侵軍篇、最終決着)
-342 - «Gracias»«Arigatou»(ありがとう)
-343 - «¡Estudiante del 3º año de secundaria! ¡Vestido, y un nuevo capítulo empieza»«Kōkō 3 nensei! Yosoi arata ni shinshō kaishi!»(高校３年生！装い新たに新章開始！)
-344 - «¿¡Una disputa en la escuela!? ¡Ichigo y Uryū, peleando juntos!»«Gakkou kan kousou!? Ichigo to Uryuu, kyoutou!»(学校間抗争！？一護と雨竜、共闘！)
-345 - «Uryū es atacado, ¡Una amenaza está cerca de los amigos!»«Osowa reta Uryuu, nakama tachi ni semaru kyoui!»(襲われた雨竜、仲間達に迫る脅威！)
-346 - «El usuario del Fullbring · Kūgo Ginjo»«Furuburingu no nouryoku sha·Ginjō Kūgo»(完現術の能力者·銀城空吾)
-347 - «¿¡El deslizante peligro en la familia Kurosaki¡? ¡La confusión de Ichigo!»«Kurosaki-ka ni shinobiyoru kiki!? Ichigo no mayoi!»(黒崎家に忍び寄る危機！？一護の迷い！)
-348 - «El poder de la insignia sustituta, ¡El "orgullo" de Ichigo!»«Daikōshō no chikara, Ichigo no "hokori"!»(代行証の力、一護の“誇り”！)
-349 - «¡El siguiente objetivo, las manos malignas apuntan hacía Orihime!»«Tsugi no hyōteki, Orihime o nerau ma no te!»(次の標的、織姫を狙う魔の手)
-350 - «¡¿El hombre qué mató a un shinigami sustituto?! Tsukishima hace su movimento»«Shinigami daikō o koroshita otoko!? Ugokidasu Tsukishima»(死神代行を殺した男！？動き出す月島)
-351 - «¡Fullbring, el desagradable poder!»«Furuburingu, imikirawa reta chikara!»(フルブリング、忌み嫌われた力！)
-352 - «¡Tsukishima, ataca! El entrenamiento ha sido frustrado»«Tsukishima, kyōshū! Bōgai sareta shugyō»(月島、強襲！妨害された修行)
-353 - «¡Ichigo, dominando el Fullbring!»«Ichigo, Furuburingu jutsu o tsukai konase!»(一護、完現術を使いこなせ！)
-354 - «Ichigo vs Ginjō, hacia el juego del espacio»«Ichigo vs Ginjō, gēmu no kūkan e»(一護vs銀城、ゲームの空間へ)
-355 - «¡Los shinigami entran en batalla! El Seireitei también tiene un Año Nuevo especial»«Shinigami sansen! Seireitei mo oshōgatsu SP!»(死神参戦！瀞霊廷もお正月ＳＰ！)
-356 - «¿¡Amigo o enemigo!? ¡El oculto corazón de Ginjō!»«Teki ka mikata ka!? Ginjō no mienai kokoro!»(敵か味方か！？銀城の見えない心！)
-357 - «¡La deslizante amenaza... ¡La habilidad de Tsukishima!»«Shinobiyoru kyoui...Tsukishima no nōryoku!»(忍び寄る脅威…月島の能力！)
-358 - «¿¡Enfrentamiento!? Xcution ataca a Ginjō»«Gekitotsu!? Ginjō o osō XCUTION»(激突！？銀城を襲うＸＣＵＴＩＯＮ)
-359 - «¡La dolorosa pelea! ¡Ichigo Vs. Sado y Orihime!»«Kanashimi no tatakai! Ichigo VS Sado & Orihime!»(哀しみの戦い！一護VS茶渡＆織姫！)
-360 - «¿¡Ichigo Vs. Uryū!? ¡Quién es el traidor!»«Ichigo VS Uryū!? Uragirimono wa dare da!»(一護VS雨竜！？裏切り者は誰だ！)
-361 - «¡Una nueva apariencia!¡Reunión, el Gotei 13!»«Atarashī dezain! Kaigi, umore 13!»(新しいデザイン！会議、埋もれ13！)
-362 - «¡Renace!¡El Shinigami sustituto･Ichigo Kurosaki!»«Fukkatsu! Shinigami daikō･Kurosaki Ichigo!»(復活！死神代行･黒崎一護！)
-363 - «¡La feroz batalla! ¡Shinigami vs. Xcution!»«Gekitō! Shinigami vs XCUTION!»(激闘！死神ｖｓＸＣＵＴＩＯＮ！)
-364 - «¡¿Lucha desesperada?! La memoria de Byakuya en problemas»«Zettai zetsumei!? Kioku o hasamareta Byakuya»(絶体絶命！？記憶を挟まれた白哉)
-365 - «¡Ichigo vs Ginjō! El secreto de la insignia sustituta»«Ichigo VS Ginjō! Daikōshō no himitsu»(一護VS銀城！代行証の秘密)
-366 - «Historia que cambia, Corazón que no cambia»«Kawariyuku rekishi, kawaranu kokoro»(変わりゆく歴史、変わらぬ心)
-367 - «LA GUERRA DE SANGRE»«THE BLOOD WARFARE»(ザ・ブラッド・ウォーフェア)
-368 - «Las Piedras Angulares»«Foundation Stones»(ファウンデーション·ストーンス)
-369 - «La Marcha de la Estrella Cruzada»«March of the StarCross»(マーチ オブ ·サ ·スタークロス)
-370 - «Mata A La Sombra»«Kill The Shadow»(キル·ザ·シャドウ)
-371 - «La Ira como un Relámpago»«Wrath as a Lightning»(ラス·アズ·ア·ライトニング)
-372 - «El Fuego»''«The Fire»(ザ·ファイア)
-373 - «NACIDO EN LA OSCURIDAD»''«BORN IN THE DARK»(ボーン·イン·ザ·ダーク)
-374 - «El Proyecto Estrella Fugaz (ZERO MIX)»''«The Shooting Star Project (ZERO MIX)»(ザ·シューティング·スター·プロジェクト(ゼロ·ミックス))
-375 - «LA GOTA»''«THE DROP»(ザ·ドロップ)
-376 - «La Batalla»''«The Battle»(ザ·バトル)
-377 - «Todo Menos la Lluvia»''«Everything But the Rain»(エブリシング·バット·ザ·レイン)
-378 - «TODO MENOS LA LLUVIA "La Verdad de Junio"»''«EVERYTHING BUT THE RAIN "June Truth"»(エブリシング·バット·ザ·レイン·"ジューン·トルース")
-379 - «LA ESPADA SOY YO»''«THE BLADE IS ME»(ザ·ブレード·イズ·ミー)
-380 - «LOS ÚLTIMOS 9DÍAS»«THE LAST 9DAYS»(ザ ·ラスト ·ナインデイズ)
-381 - «La Paz desde las Sombras»«Peace from Shadows»(ピース·フロム·シャドウズ)
-382 - «La Virulencia Fundamental»«The Fundamental Virulence»(ザ·ファンダメンタル ·サイテテンス)
-383 - «El CORAZÓN del LOBO»«HEART of WOLF»(狼の心臓)
-384 - «Furia en el Cuadrilátero»«Rages at Ringside»( レイジス·アツト·リングサイド )
-385 - «La Neblina Blanca»«The White Haze»(ザ· ホワイト· ヘイズ)
-386 - «YO SOY EL FILO»«I AM THE EDGE»(アイ· アム ジ· エッジ)
-387 - «La Estrella Sin Cabeza»«The Headless Star»(ザ·ヘッドレス·スター)
-388 - «Marchando los ZOMBIES»«Marching Out the ZOMBIES»(マーチング·アウト·ザ·ゾンビーズ)
-389 - «Marchando los ZOMBIES 2»«Marching Out the ZOMBIES 2»(マーチング·アウト·ザ·ゾンビーズ 2)
-390 - «Demasiado Temprano para Ganar, Demasiado Tarde para Saberlo»«Too Early to Win Too Late to Know»(トゥー·アーリー·トゥー·ウィン·トゥー·レイト·トゥー·ノウ)
-391 - «EL MAESTRO»«THE MASTER»(ザ マスター)
-392 - «NEGRO»«BLACK»(ブラック)
-393 - «A»«A»(エー)
-394 - «MATAR AL REY»«KILL THE KING»(キル ザ キング)
-395 - «El Brazo Oscuro»«The Dark Arm»(ザ　ダ一ク　ア一ム)
-396 - «El Traidor»«TBA»(TBA)
-397 - «En Contra del Juicio»«Against the Judgement»(アゲインスト ザ ジャッジメント)
-398 - «EL SANTO RECIÉN NACIDO»«THE HOLY NEWBORN»(ザ· ホーリー·ニューボーン)
-399 - «LA PUERTA DEL SOL»«GATE OF THE SUN»(ゲート オブ ザ サン)
-400 - «CARIÑO, SUJETO TU MANO»«BABY HOLD YOUR HAND»(ベイビー ホールド ユア ハンド)
-401 - «NO PERSIGAS UNA SOMBRA»«DON'T CHASE A SHADOW»(ドント チェイス ア シャドウ)
-402 - «CARIÑO, SUJETO TU MANO 2 (Mi Sueño No Tiene Fin)»«BABY, HOLD YOUR HAND 2»(ベイビー ホールド ユア ハンド 7 (ネバー エンディング マイ ドリーム))
-403 - «SOMBRAS DESAPARECIDAS»«SHADOWS GONE»(TBA)
-404 - «amigo»«friend»(フレンド)
-405 - «La Respuesta Visible»«The Visible Answer»(ザ ヴィジブル アンサ)
-406 - «MIS ÚLTIMAS PALABRAS»«MY LAST WORDS»(マイ ラスト ワーズ)
+01 El día en que me convertí en Shinigami
+02 El trabajo de un Shinigami
+03 Deseo del hermano mayor, deseo de la hermana menor
+04 El periquito maldito
+05 ¡Derrota al enemigo invisible!
+06 ¡Lucha a muerte! Ichigo vs Ichigo
+07 Saludos de un león de peluche
+08 17 de Junio, memorias en la lluvia
+09 Enemigo invencible
+10 ¡Asalto durante la visita a la tierra sagrada!
+11 El legendario Quincy
+12 Un amable brazo derecho
+13 La Flor y el Hollow
+14 ¡Lucha a muerte espalda con espalda!
+15 El magnífico plan de Kon
+16 Renji Abarai, ¡el encuentro!
+17 ¡Ichigo muere!
+18 ¡Recupéralo! El poder de Shinigami
+19 ¡Ichigo se convierte en Hollow!
+20 La Sombra de Gin Ichimaru
+21 ¡Entra! El mundo de los Shinigami
+22 El hombre que odia a los Shinigami
+23 14 días antes de la ejecución de Rukia
+24 ¡Reunión! El Gotei 13
+25 ¿Entrar en el centro con una bala enorme?
+26 ¡Formación! La peor reputación
+27 ¡Da el golpe de gracia!
+28 El objetivo es Orihime
+29 ¡Atraviesa! La red de Shinigami acechantes
+30 Enfrentamiento con Renji
+31 La resolución de matar
+32 La Estrella y el Vagabundo
+33 ¡Milagro! El misterioso nuevo héroe
+34 Tragedia al amanecer
+35 ¡Aizen asesinado! Se cierne la Oscuridad
+36 ¡Kenpachi Zaraki se acerca!
+37 La razón del puño
+38 ¡Desesperación! Zangetsu rota
+39 El hombre inmortal
+40 El Shinigami que conoció Ganju
+41 Reunión, Ichigo y Rukia
+42 Yoruichi, la Diosa de la Velocidad, ¡en acción!
+43 El Shinigami despreciable
+44 Ishida, ¡el poder definitivo!
+45 ¡Supera tus límites!
+46 ¡Recuerdos auténticos! La Academia de Shinigami
+47 Los vengadores
+48 Hitsugaya, ¡ruge!
+49 La pesadilla de Rukia
+50 El resurgir del león
+51 La mañana de la ejecución
+54 ¡Una promesa cumplida! ¡Trae de vuelta a Rukia!
+55 ¡El Shinigami más fuerte! Combate definitivo entre el profesor y sus alumnos
+56 ¡La batalla supersónica! A determinar quién es la Diosa de la Lucha
+57 Senbonzakura, ¡aniquilada! Zangetsu se abre paso en los Cielos
+58 ¡Liberación! La hoja negra, el poder milagroso
+59 ¡Conclusión de la lucha a muerte! Orgullo blanco e ímpetu negro
+60 Realidad de la desesperación: la daga del asesino ha sido blandida
+61 ¡Aizen en pie! Horribles ambiciones
+62 ¡Reunión! Los Shinigami más fuertes, reunidos
+63 La decisión de Rukia, los sentimientos de Ichigo
+64 Comienza el curso, ¿¡Renji ha venido al mundo real!?
+65 Terror escalofriante, la segunda víctima
+66 ¡Atraviesa! La trampa escondida en el Laberinto
+67 ¡Juego mortal! El compañero de clase perdido
+70 ¡El regreso de Rukia! Resurrección del equipo sustituto
+71 ¡El momento de la colisión! Una mano maligna se aproxima al Quincy
+72 ¡Ataque del Agua! Escape del hospital cerrado
+77 ¡Rencor implacable! El Shinigami que mató Kenpachi
+78 ¡¡Sorprendentes revelaciones del Gotei 13!! La Verdad escondida en la Historia
+79 Yoshino, la decisión de muerte
+80 ¡Asalto de un enemigo formidable! ¡¿Una delgada línea de defensa final?!
+81 ¡Hitsugaya se mueve! La ciudad asediada
+82 ¡Ichigo vs Dalk! La llegada de la Oscuridad que marchita
+83 La sombra gris, el secreto de las Doll
+86 ¡Rangiku en acción! ¡Corta al enemigo invisible!
+87 ¡Byakuya es convocado! El Gotei 13 comienza a moverse
+88 ¿¡Aniquilación de los Tenientes?! Trampa en la cueva subterránea
+89 ¿¡Revancha?! Ishida vs Nemu
+90 Renji Abarai, ¡el Bankai del Alma!
+91 Shinigami y Quincy, el poder que renace
+92 Invasión del mundo de los Shinigami, de nuevo
+93 ¡El Asalto de los Bount! Caos en el Gotei 13
+94 ¡¡La decisión de Hitsugaya! El choque se avecina
+95 ¡Byakuya toma la iniciativa! La danza de las flores de cerezo que cortan el viento
+96 Ichigo, Byakuya y Kariya, ¡La Batalla de los tres extremos!
+97 ¡Hitsugaya golpea! Corta al enemigo en el medio del bosque
+98 ¡Choque! Kenpachi Zaraki vs Maki Ichinose
+99 ¡Shinigami vs Shinigami! Un poder incontrolable
+100 ¿Muere Suì-Fēng? La última de las Fuerzas Especiales
+101 ¡¡El Bankai de Mayuri!! Sawatari, el choque del demonio
+102 ¡El Último Quincy! El poder que explota
+103 Ishida, ¡excediendo los límites para atacar!
+104 ¡Lucha en la 10ª División! Hyōrinmaru es liberada
+105 ¡Kariya! Cuenta atrás para la detonación
+106 ¡Vida y venganza! Ishida, la elección definitiva
+107 ¡La hoja que cae! El momento de la ruina
+108 ¡Los lamentos del Bount! El último choque
+109 Ichigo y Rukia, pensamientos que giran alrededor de los Cielos
+110 ¡Regreso al trabajo de sustituto! El terrorífico estudiante de intercambio
+111 ¡Sorpresa! Las verdaderas identidades de los padres
+112 El comienzo de la Guerra, Visored y Arrancar
+113 Preludio al Apocalipsis, el ataque de los Arrancar
+114 La reunión de Ichigo, Rukia y los Shinigami
+115 ¡Misión! Los Shinigami han llegado
+116 El ojo maligno, Aizen de nuevo
+117 ¡Comienza la batalla de Rukia! La espada blanca congelante
+118 ¡El Bankai de Ikkaku! El poder que lo destruye todo
+119 ¡La historia de la División de Zaraki! Los hombres afortunados
+120 ¡Hitsugaya despedazado! Hyōrinmaru se rompe
+121 ¡Choque! La persona que protege vs la persona que sufre
+122 ¡Visored! El poder de los que han despertado
+123 Ichigo, ¡¿Hollowficación completa?!
+124 ¡Choque! Bankai negro contra Bankai blanco
+125 ¡Informe urgente! El terrorífico plan de Aizen
+126 ¡Uryū vs Ryūken! Choque entre padre e hijo Quincy
+127 La decisión de Urahara, los pensamientos de Orihime
+128 ¡La pesadilla Arrancar! El equipo de Hitsugaya se pone en marcha
+129 ¡La llegada del emisario oscuro! La propagación del Mal
+130 ¡Enemigo invisible! La decisión implacable de Hitsugaya
+131 Las lágrimas de Rangiku, la dolorosa despedida de los hermanos
+132 Hitsugaya, Karin y el balón de fútbol
+133 Ikkaku, la historia del Kendo a sangre caliente
+134 ¡Yumichika! El hermoso pastelero
+135 ¡Kon es engañado! Rangiku, a la búsqueda..
+136 ¡Guerra Civil en el Hueco Mundo! La muerte de Ulquiorra
+137 La batalla maliciosa, la trampa de Aizen"«Akui no tatakai, Aizen no wana
+138 ¡Segundo ataque del Hueco Mundo! Hitsugaya vs Yammy
+139 Ichigo vs Grimmjow, ¡la batalla de los 11 segundos!
+140 El ardid de Ulquiorra, el momento en que se pone el Sol
+141 Adiós... Kurosaki
+142 ¡Orden! Prohibido el rescate de Orihime Inoue
+143 El resurgimiento de Grimmjow
+144 Ishida y Chad, el repentino aumento de un nuevo poder
+145 ¡Reunión de los Espada! La Asamblea Real de Aizen
+146 ¡Su nombre es Nell! La aparición de la extraña Arrancar
+147 ¡El Bosque de Menos! La búsqueda de Rukia
+148 Ashido, el Shinigami que vino del pasado
+149 El bosque colapsa, un millón de Menos
+150 ¡Juramento! Regresar vivos allí
+151 ¡Furiosa tempestad! Encuentro con el Arrancar bailarín
+152 ¡Ichigo contrataca! Éste es mi Bankai
+153 ¡Malévola investigación! El plan de Szayel Aporro
+154 Rukia y Kaien, el doloroso encuentro
+155 ¡Rukia contraataca! Lanza el Kidō desesperado
+156 Ishida y Pesche, el ataque conjunto de la amistad
+157 El arma secreta de Ishida, la Cortadora de Almas
+158 El brazo derecho del Gigante, el brazo izquierdo del Diablo
+159 ¡Muere Yasutora Sado! Las lágrimas de Orihime
+160 Testamento - Tu corazón está aquí
+161 El cruel Arrancar, la provocación de Ulquiorra
+162 La risa de Szayel Aporro, la red alrededor de Renji está completa
+163 Shinigami y Quincy, la batalla contra la locura
+164 La estrategia de Ishida, 20 segundos de ataque y defensa
+165 ¡Hierve la intención asesina! La alegría de Grimmjow
+166 ¡Esfuerzo desesperado vs esfuerzo desesperado! Ichigo se transforma en Hollow
+167 El momento de la conclusión, el fin de Grimmjow
+168 ¡Aparece el nuevo Capitán! Su nombre es Shūsuke Amagai
+169 Nuevo desarrollo, ¡aparece la peligrosa estudiante de intercambio!
+170 Lucha desesperada bajo la luz de la luna, el misterioso Asesino y su Zanpaku-tō
+171 Kenryū, la profusión de flores carmesíes
+172 ¡Kibune va a la guerra! La furiosa Reppu
+173 ¡La aparición del Mal! Oscuridad en la Casa de los Kasumiōji
+174 ¡Rompe la barrera del espejo! Ichigo cautivo
+175 El asesino vengativo, el objetivo es Ichigo
+178 La pesadilla es revelada, Ichigo está dentro del espejo
+179 ¿¡Enfrentamiento!? Amagai vs Gotei 13
+180 La decisión de la Princesa, la afligida novia
+181 ¡Despliegue de la 2ª División! Ichigo es rodeado
+182 La verdadera fuerza de Amagai, ¡liberación de la Zanpaku-tō!
+183 ¡La Oscuridad se mueve! Las verdaderas intenciones de Kibune
+184 Kira y Kibune, el ataque y la defensa de la 3ª División
+185 ¡Hielo y llama! La fiera lucha Amagai vs Hitsugaya
+186 ¡Órdenes de salida! Suprimir la Casa de los Kasumiōji
+187 ¡Ichigo se enfurece! El secreto del asesino
+188 ¡Duelo! Amagai vs Ichigo
+189 El orgullo del Shinigami caído
+190 Saga del Hueco Mundo, ¡retorno!
+191 El terrible banquete, el teatro de Szayel Aporro
+192 El secreto de Nell, ¿¡Una belleza de pechos grandes se une a la lucha!?
+193 Irresistible, el show de marionetas del terror
+194 El pasado de Nelliel
+195 ¡Unión definitiva! La seriedad de Pesche
+196 El ejército de los Shinigami más fuertes aparece
+197 Elbankaide Byakuya, ira silenciosa
+198 Los dos científicos, la trampa de Mayuri
+199 Nacimiento divino, Szayel Aporro resucitado
+200 ¿¡El cuerpo más resistente?! Nnoitra es cortado
+201 ¡Nnoitra libera! Brazos que se multiplican
+202 ¡El final de la feroz lucha! ¿Quién es el más fuerte?
+203 ¡Encuentro en Karakura Town! Aizen contra los Shinigami
+204 La estrategia de persuasión del seppuku de Ichigo
+205 ¡Golpea! Un torneo de fútbol lleno de Hollows
+206 ¡Comienza la Saga del Pasado! La verdad de hace 110 años
+207 El nuevo Capitán de la 12ª División, Kisuke Urahara
+208 Aizen y el joven genio
+209 La 9ª División de Muguruma avanza
+210 ¿Muere Hiyori? El comienzo de la tragedia
+211 ¡Traición! Las maniobras secretas de Aizen
+212 ¡Rescata a Hirako! Aizen vs Urahara
+213 Nace el Karakuraizer, detective de entierros de almas
+214 El último día del Karakuraizer
+215 ¡La defensa de Karakura Town! La llegada de todos los Shinigami
+216 ¡Elite! Los cuatro Shinigami
+217 El hermoso diablillo Charlotte
+218 Kira, la batalla dentro de la desesperación
+219 ¡Elshikaide Hisagi! Su nombre es...
+220 ¡Ikkaku cae! La crisis de los Shinigami
+221 ¡Enfrentamiento total! Shinigami vs Espada
+222 ¿¡El equipo más malvado!? Suì-Fēng y Ōmaeda
+223 ¡Un cuerpo milagroso! Ggio libera
+224 ¡Batalla 3 vs 1! Los problemas de Rangiku
+225 ¡Todos los Tenientes aniquilados! La terrorífica bestia demoníaca
+226 ¿Acaba la fiera lucha? ¡Hacia una nueva batalla!
+227 Error maravilloso
+228 ¡Verano! ¡Mar! ¡¡Festival de trajes de baño!!
+229 ¿Grito del alma? ¡Nace el Shinigami con peluca!
+230 ¡Un nuevo enemigo! La materialización de las Zanpaku-tō
+231 Byakuya, desapareciendo con las flores del cerezo
+232 ¡Sode no Shirayuki vs Rukia! La confusión del corazón
+233 Zangetsu se convierte en enemigo
+234 ¿¡Renji sorprendido!? Los dos Zabimaru
+235 ¡Choque! Hisagi vs Kazeshini
+236 ¡Liberación! El nuevo Getsuga Tenshō
+237 Suì-Fēng, rodeando a la Zanpaku-tō
+238 ¿Amistad? ¿Odio? Haineko y Tobiume
+239 ¡El despertar de Hyōrinmaru! La fiera lucha de Hitsugaya
+240 La traición de Byakuya
+241 ¡Por el Orgullo! Byakuya vs Renji
+242 Shinigami y Zanpaku-tō, salida total
+243 ¡Pelea mano a mano! Ichigo vs Senbonzakura
+244 El largamente esperado... ¡Aparece Kenpachi!
+245 ¡Persigue a Byakuya! Las confusas divisiones del Gotei
+246 ¡Misión especial! Rescatar al Comandante General Yamamoto
+247 ¡Los Shinigami son engañados! La crisis del colapso mundial
+248 ¡Dragón de hielo y dragón de fuego! El enfrentamiento de los más fuertes
+249 ¡El bankai de Senbonzakura! Ataque y defensa del mundo de los vivos
+250 Aquel hombre, por la Familia Kuchiki
+251 ¡Historia oscura! Nace el Shinigami más malvado
+252 Byakuya, la verdad detrás de la traición
+253 La verdadera identidad de Muramasa es revelada
+254 Byakuya y Renji, el regreso de la 6ª División
+255 Capítulo final · Los Cuentos Desconocidos de las Zanpaku-tō
+256 ¡El enojo de Byakuya! La familia Kuchiki colapsa
+257 ¡Un nuevo enemigo! La verdadera naturaleza de las Bestias-Espadas
+258 Serpiente extraviada, mono torturado
+259 ¡Terror! El monstruo que se enconde en las profundidades
+260 ¿¡Conclusión!? Hisagi vs Kazeshini
+261 ¡La persona con la habilidad desconocida! El objetivo es Orihime
+262 ¡Haineko llora! La trágica Bestias-Espadas
+263 ¡¿Encarcelamiento?! Senbonzakura y Zabimaru
+264 ¿Batalla de mujeres? Nanao vs Katen Kyōkotsu
+265 ¡¿Evolución?! La amenaza de la bestia espada final
+266 Un nuevo comienzo, Ichigo VS Ulquiorra
+267 ¡Corazones Conectados! ¡El puño izquierdo preparado para la muerte!
+268 El odio y los celos, el dilema de Orihime
+269 Ichigo y Uryū, el vinculo espalda con espalda
+270 Ichigo...el comienzo de la desesperación, la espada inalcanzable
+271 ¡Ichigo muere! ¡Orihime, el llanto de dolor!
+272 ¡Final! Ichigo VS Ulquiorra
+273 ¡La furia del tiburón! La liberación de Halibel
+274 ¡Hitsugaya,El Funeral Celeste de las Cien Flores Heladas del suicidio!
+275 ¡El aliento de muerte se aproxima, El rey qué manda sobre la muerte!
+276 «¡Un golpe a matar, Suì-Fēng, Bankai!
+277 ¡Clímax! ¡Kyōraku vs. Starrk!
+278 «La pesadilla regresa...el resurgimiento de los Espada
+279 Hirako y Aizen...¡el reencuentro del destino!
+280 Hisagi y Tousen, el momento de partir
+281 Corona de engaños, el rencor de Baraggan
+282 ¡Poder del alma!, ¡Los Lobos, atacan!
+283 Starrk, la batalla del solitario
+284 Cadena de sacrificio, el pasado de Halibel
+285 ¡Cien años de rencor! La venganza de Hiyori
+286 ¡El regreso de Ichigo! Proteger a Karakura
+287 ¡Gaiden! Ichigo y la lámpara mágica
+288 ¡La carta final del triunfo, Ichigo, hacia la batalla decisiva
+289 ¡¿Byakuya Vs. Kenpachi?! La batalla cuerpo a cuerpo comienza
+290 ¡¿Por el bien de la justicia?! El hombre que abandonó a los Shinigami
+291 ¡Lucha desesperada con Aizen! ¡Hirako, shikai!
+292 ¡Guerra Total! Aizen Vs. Shinigami
+293 ¡La espada de odio! ¡Hitsugaya, enfurecido!
+294 ¿Imposible de atacar? ¡Genryūsai sellado!
+295 Todo esto es una trampa... ¡Enlaces diseñados!
+296 La impactante verdad... ¡El misterioso poder dentro de Ichigo!
+297 ¡¿La hoja de la espada extendida?! ¡Ichigo vs Gin!
+298 ¡Cine! ¡Festival! ¡Festival de cine Shinigami!
+299 ¡Conmemoración de apertura del teatro! Capítulo Infierno · Prólogo
+300 ¡Urahara aparece! ¡Detente Aizen!
+301 ¿¡Ichigo pierde su espíritu de lucha!? La expectativa de Gin
+302 ¿¡El Getsuga Tenshō Final!? ¡El entrenamiento de Ichigo!
+303 ¡Mundo real y shinigami! ¡El especial de Año Nuevo!
+304 ¡Gaiden otra vez! ¿¡Este enemigo de ahora es un monstruo!?
+305 Hisagi, hacia las aguas termales
+306 ¡Por el bien de proteger! Ichigo Vs Tensa Zangetsu
+307 ¡Situación de emergencia! Aizen, la nueva evolución
+308 Adiós... Rangiku
+309 ¡Fin de la feroz batalla! ¡Libera, Getsuga Tenshō final!
+310 ¡La resolución de Ichigo! El precio de la feroz batalla
+311 El detective del alma · Karakuraizer ¡Despega de nuevo!
+312 ¡Inauguración! ¡Nuevo capitán de la Segunda división!
+313 ¡El hombre quien arriesga su vida en la Décimo-primera División!
+314 ¡Kon es visto! El secreto de una chica hermosa
+315 ¡El amigo de Yachiru! ¡El shinigami de la justicia aparece!
+316 ¡Las vacaciones de Toshirō Hitsugaya!
+317 ¡¿Un inusual caso en el Seireitei?! ¡Saga de la Invasión armada al Gotei 13!
+318 ¿¡Renji Vs. Rukia?! ¡Batalla con compañeros!
+319 ¡Red de captura de Ichigo! ¡Escapa de la Sociedad de Almas!
+320 ¡Gotei 13, Encuentro en el mundo real!
+321 ¡Confrontación de mutuo acuerdo, Ikkaku Vs. Ikkaku!
+322 ¡Choque! ¡Rukia Vs. Rukia!
+323 ¡Protege a Ichigo! La determinación de Nozomi
+324 ¡Recaptura Seireitei! ¡Los capitanes en movimiento!
+325 ¡Por el bien de los que creen! ¡Byakuya Vs. Hitsugaya!
+326 Las dos Hinamori, la resolución de Hitsugaya
+327 «¡El orgullo de la familia Kuchiki! Byakuya Vs Byakuya
+328 ¡Vence a Kageroza! ¡Shinigami, guerra total!
+329 «La investigación prohibida... ¡El oculto secreto de Nozomi!
+330 ¡Yo quiero vivir...! La Zanpaku-tō de Nozomi
+331 ¡Por el bien de la pelea! ¡El despertar de Nozomi!
+332 ¡El Reigai más diabólico, aparece en el Mundo Real!
+333 ¿¡Destruir a Nozomi?! La decisión de Genryusai
+334 ¡El reiatsu agotado! Ichigo, la lucha mortal del alma
+335 ¿Oculto en el Dangai? ¿¡Ichigo está solo!?
+336 ¡Persigue a Kageroza! ¡Infiltración, Departamento de Desarrollo Tecnológico!
+337 El desarrollador de las Almas Modificadas
+338 Los pensamientos de Kon, los pensamientos de Nozomi
+339 ¡Protege a Ichigo! ¡Los lazos de amigos!
+340 ¡Reigai vs Original! ¡La feroz batalla por el orgullo jugado!
+341 ¡Conclusíon de la saga de la Invasión Armada!
+342 Gracias
+343 ¡Estudiante del 3º año de secundaria! ¡Vestido, y un nuevo capítulo empieza
+344 ¿¡Una disputa en la escuela!? ¡Ichigo y Uryū, peleando juntos!
+345 Uryū es atacado, ¡Una amenaza está cerca de los amigos!
+346 El usuario del Fullbring · Kūgo Ginjo
+347 ¿¡El deslizante peligro en la familia Kurosaki¡? ¡La confusión de Ichigo!
+348 El poder de la insignia sustituta, ¡El "orgullo" de Ichigo!
+349 ¡El siguiente objetivo, las manos malignas apuntan hacía Orihime!
+350 ¡¿El hombre qué mató a un shinigami sustituto?! Tsukishima hace su movimento
+351 ¡Fullbring, el desagradable poder!
+352 ¡Tsukishima, ataca! El entrenamiento ha sido frustrado
+353 ¡Ichigo, dominando el Fullbring!
+354 Ichigo vs Ginjō, hacia el juego del espacio
+355 ¡Los shinigami entran en batalla! El Seireitei también tiene un Año Nuevo especial
+356 ¿¡Amigo o enemigo!? ¡El oculto corazón de Ginjō!
+357 ¡La deslizante amenaza... ¡La habilidad de Tsukishima!
+358 ¿¡Enfrentamiento!? Xcution ataca a Ginjō
+359 ¡La dolorosa pelea! ¡Ichigo Vs. Sado y Orihime!
+360 ¿¡Ichigo Vs. Uryū!? ¡Quién es el traidor!
+361 ¡Una nueva apariencia!¡Reunión, el Gotei 13!
+362 ¡Renace!¡El Shinigami sustituto･Ichigo Kurosaki!
+363 ¡La feroz batalla! ¡Shinigami vs. Xcution!
+364 ¡¿Lucha desesperada?! La memoria de Byakuya en problemas
+365 ¡Ichigo vs Ginjō! El secreto de la insignia sustituta
+366 Historia que cambia, Corazón que no cambia
+367 LA GUERRA DE SANGRE
+368 Las Piedras Angulares
+369 La Marcha de la Estrella Cruzada
+370 Mata A La Sombra
+371 La Ira como un Relámpago
+372 El Fuego
+373 NACIDO EN LA OSCURIDAD
+374 El Proyecto Estrella Fugaz (ZERO MIX)
+375 LA GOTA
+376 La Batalla
+377 Todo Menos la Lluvia
+378 TODO MENOS LA LLUVIA "La Verdad de Junio"
+379 LA ESPADA SOY YO
+380 LOS ÚLTIMOS 9DÍAS
+381 La Paz desde las Sombras
+382 La Virulencia Fundamental
+383 El CORAZÓN del LOBO
+384 Furia en el Cuadrilátero
+385 La Neblina Blanca
+386 YO SOY EL FILO
+387 La Estrella Sin Cabeza
+388 Marchando los ZOMBIES
+389 Marchando los ZOMBIES 2
+390 Demasiado Temprano para Ganar, Demasiado Tarde para Saberlo
+391 EL MAESTRO
+392 NEGRO
+393 A
+394 MATAR AL REY
+395 El Brazo Oscuro
+396 El Traidor
+397 En Contra del Juicio
+398 EL SANTO RECIÉN NACIDO
+399 LA PUERTA DEL SOL
+400 CARIÑO, SUJETO TU MANO
+401 NO PERSIGAS UNA SOMBRA
+402 CARIÑO, SUJETO TU MANO 2 (Mi Sueño No Tiene Fin)
+403 SOMBRAS DESAPARECIDAS
+404 amigo
+405 La Respuesta Visible
+406 MIS ÚLTIMAS PALABRAS
