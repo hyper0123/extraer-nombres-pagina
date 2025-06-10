@@ -1,0 +1,35 @@
+name: Extract Bleach Episodes
+
+permissions:
+  contents: write       # Allow workflow to push updates
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday at UTC 00:00
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Extract Episodes
+        run: |
+          python extract_bleach_episodes.py > bleach_episodios_es.txt
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Bleach episodes list"
+          file_pattern: "bleach_episodios_es.txt"
